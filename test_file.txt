@@ -1,1 +1,1 @@
-Create one text file named test_file.txt on your local Git directory with some text.
+Modify this text file named test_file.txt on this branch
