@@ -1,0 +1,1 @@
+Try to make some changes in a file located at test_repo from your local repository. Also, make some changes on the same line from GitHub. Push the project and see what happens. Try to handle the conflict and upload screenshots of this process.
